@@ -8,7 +8,7 @@ body {
 }
 
 header {
-	background-image: url(assets/banner-bg.jpg);
+	background-image: url(assets/jojo_bg1.jpg);
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
@@ -117,7 +117,7 @@ h1 {
 }
 
 .blog {
-	background-image: url(assets/banner-texture@2x.png);
+	background-image: url(assets/jojo_bg2.jpg);
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
@@ -125,7 +125,7 @@ h1 {
 }
 
 .contact {
-	background-image: url(assets/img-contact-form-bg.jpg);
+	background-image: url(assets/jojo_bg3.png);
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
@@ -192,10 +192,10 @@ input[type=number]::-webkit-inner-spin-button,
   (-webkit-min-device-pixel-ratio: 2),
   (min-resolution: 192dpi) {
   	.blog {
-    	background-image: url(assets/banner-texture@2x.png) !important;
+    	background-image: url(assets/jojo_bg2.jpg) !important;
   	}
 
   	.faq {
-    	background-image: url(assets/img-prop-type@2x.jpg) !important;
+    	background-image: url(assets/jojo_bg2.jpg) !important;
   	}
 }
